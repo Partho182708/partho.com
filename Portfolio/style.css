@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    scroll-behavior: smooth;
     /* font-family: 'Rampart One', cursive; */
 }
 body{
@@ -46,7 +47,7 @@ button{
 }
  /* navbar design starts from here  */
 .navbar{
-    background-color: #00b159;
+    background-color: #0abde3;
     padding: 1% 7%;
 }
 .navbar h1{
@@ -97,7 +98,7 @@ button{
 
 .profile-desc h1{
     font-family: 'Rampart One', cursive;
-    color: #00b159;
+    color: #0abde3;
    font-size: 3rem; 
    text-align: center;
    padding: 5px;
@@ -107,7 +108,7 @@ button{
     font-size:2rem ;
     font-weight: bolder;
     text-align: center;
-    color: #00b159;
+    color: #0abde3;
     margin-left: 20px;
 
 }
@@ -122,7 +123,7 @@ button{
 
   /* about me starts here */
 .about-me{
-    background-color:#00b159;
+    background-color:#0abde3;
     color: white;
     padding: 1% 7%;
     text-align: center;
@@ -295,7 +296,7 @@ button{
 .acheivement-contact{
     padding:1% 7%;
     color: white;
-    background-color: #00b159;
+    background-color: #0abde3;
     font-family: 'Cairo', sans-serif;
 }
 .contact{
